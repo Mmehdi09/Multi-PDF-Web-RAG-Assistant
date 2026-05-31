@@ -74,6 +74,14 @@ langchain-google-genai
 streamlit
 python-dotenv
 unstructured
+# System Diagram
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8ba0a917-297b-4c44-a7c7-b6c8262f3272" />
+
+# Workflow Diagram
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4500ae46-fc66-4680-a0c4-8e96c06ea7d4" />
+
 # Conclusion
 
 This project demonstrates the practical implementation of a Retrieval-Augmented Generation (RAG) pipeline that combines document processing, web content extraction, semantic search, and generative AI. By leveraging LangChain, Chroma, Google Generative AI, and Streamlit, the application delivers a powerful and scalable solution for intelligent knowledge retrieval and conversational document analysis.
